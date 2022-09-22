@@ -1,5 +1,8 @@
 ## Principios de usabilidad y Heurística:
 
+borrar
+1
+
 1. **Visibilidad del estado del sistema:** el usuario debería saber que  está pasando en cada interacción con el producto (cargando, guardando,  errores). Debe recibir un feedback del estado del producto.
 
    
